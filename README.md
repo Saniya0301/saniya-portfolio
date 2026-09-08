@@ -11,8 +11,7 @@
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-View_Site-047857?style=for-the-badge)](https://saniya-portfolio.vercel.app)
-
+[![Live Demo](https://saniya-portfolio-beryl.vercel.app/)
 </div>
 
 <br />
